@@ -20,7 +20,6 @@ El pipeline integra predictores in silico de última generación obtenidos de db
 SCN1A-LoF-GoF-ML/
 ├── README.md
 ├── environment.yml
-├── requirements.txt
 ├── .gitignore
 ├── scripts/
 │   ├── Feature_Importance.py
