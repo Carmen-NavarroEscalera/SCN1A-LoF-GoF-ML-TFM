@@ -1,0 +1,47 @@
+# Datos — no subir por privacidad y tamaño
+data/*.xlsx
+data/*.csv
+data/*.tsv
+data/*.xls
+
+# Entornos Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos temporales y logs
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Modelos guardados (pueden ser grandes)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Resultados intermedios grandes
+results/*.pkl
